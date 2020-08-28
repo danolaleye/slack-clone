@@ -29,7 +29,7 @@ function Login() {
           src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg"
           alt=""
         />
-        <h1>Sign in to Code With Dan</h1>
+        <h1>Sign in to CodeWithDan</h1>
         <p>codewithdan.slack.com</p>
         <Button onClick={signIn}>Sign In with Google</Button>
       </div>
